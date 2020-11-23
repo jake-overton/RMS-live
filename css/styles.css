@@ -11,3 +11,23 @@ h1 {
 	font-size: x-large;
 }
 
+<<<<<<< Updated upstream
+=======
+.main-hr {
+	border-top: solid #a6a6a4 2px;
+	width: 100%;
+}
+.author {
+	/* background-color: green; */
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	font-style: italic;
+	padding: 1.5rem 0 1rem 0;
+}
+
+
+.list {
+	margin-left: 7rem;
+}
+>>>>>>> Stashed changes
